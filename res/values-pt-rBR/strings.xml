@@ -5,14 +5,14 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Assistente de configuração</string>
+    <string name="app_name">Assistente de Configuração</string>
     <string name="next">Avançar</string>
     <string name="skip">Pular</string>
     <string name="start">Iniciar</string>
-    <string name="done">Concluído</string>
+    <string name="done">Pronto</string>
     <string name="ok">Ok</string>
-    <string name="loading">Aguarde um segundo\u2026</string>
-    <string name="setup_welcome_message">Bem-vindo ao <xliff:g id="name" example="Blackiron">%1$s</xliff:g></string>
+    <string name="loading">Só um momento\u2026</string>
+    <string name="setup_welcome_message">Boas vindas ao <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
     <string name="setup_managed_profile_welcome_message">Configure seu perfil de trabalho</string>
     <string name="emergency_call">Chamada de emergência</string>
     <string name="accessibility_settings">Configurações de acessibilidade</string>
@@ -46,7 +46,6 @@
     <string name="setup_navigation">Navegação</string>
     <string name="navigation_summary">Escolha o seu método preferido de navegação</string>
     <string name="gesture_navigation">Navegação por gestos</string>
-    <string name="two_button_navigation">Navegação com dois botões</string>
     <string name="navbar_navigation">Navegação com três botões</string>
     <string name="hide_gesture_hint">Ocultar barra de navegação por gestos</string>
     <string name="setup_theme">Tema</string>
